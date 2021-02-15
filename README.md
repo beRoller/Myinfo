@@ -5,7 +5,8 @@
 
 
 <p>Hello!! </br> I'm Carl, Web developer from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197561.svg?token=exp=1613382181~hmac=34513d109277d4c3826784055db8a916" width="13"/></p>
-
+<p>I'm a forgettable person that has bigger dreams that most of the time I always stay in my room and use my laptop to browse something new or any if my mind starts to think. sometimes I love to eat</p>
+</br>
 <h2>Things I code with hobbies</h2>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -17,12 +18,13 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-f9d44a?style=flat-square&logo=python&logoColor=white" />
   <img alt="DotNet" src="https://img.shields.io/badge/-Core-5c2992?style=flat-square&logo=.net&logoColor=white" />
 </p>
-
+</br>
 <h2>Where to find me</h2>
 <p><a href="https://github.com/beRoller" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/10011010100101C" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/carl-cabahug-289316126/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
+</br>
 ------------
-<p align="center">Monday, February 15, 6:20 PM GMT+8</p>
+<p align="center">Monday, February 15, 6:42 PM GMT+8</p>
+<p align="center">24℃ | overcast clouds</p>
 <p align="center"><img src="https://github.com/beRoller/Myinfo/workflows/README%20build/badge.svg" /></p>
 
