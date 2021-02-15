@@ -20,5 +20,5 @@
 </br>
 <p align="center">Monday, February 15, 7:28 PM GMT+8</p>
 <p align="center">25℃ | overcast clouds</p>
-<p align="center"><img src="https://github.com/beRoller/Myinfo/workflows/README%20build/badge.svg" /></p>
+<p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
 
