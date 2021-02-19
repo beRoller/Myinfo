@@ -1,5 +1,5 @@
 {
-  "name": "thmsgbrt",
+  "name": "beRoller",
   "version": "1.0.0",
   "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
+    "url": "https://github.com/beRoller/beRoller.git"
   },
   "keywords": [
     "readme.md",
@@ -27,6 +27,6 @@
     "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"
+    "weather-js": "^2.0.0"
   }
 }
