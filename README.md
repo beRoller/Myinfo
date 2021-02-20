@@ -18,7 +18,7 @@
 </p>
 
 ------------
-<p align="center">Saturday, 20 February, 10:06 pm GMT+8</p>
+<p align="center">Saturday, 20 February, 11:06 pm GMT+8</p>
 <p align="center">Davao, Philippines | 25c°</p>
 <p align="center">Sky: Rain Showers | Wind: 8 km|h North</p>
 <p align="center">Humidity: 74</p>
