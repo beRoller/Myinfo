@@ -3,14 +3,14 @@
 </br>
 <h2>Things I code with hobbies</h2>
 <p>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-f9d44a?style=flat-square&logo=python&logoColor=white" />
-  <img alt="DotNet" src="https://img.shields.io/badge/-Core-5c2992?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-f9d44a?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="DotNet" src="https://img.shields.io/badge/-Core-5c2992?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 </br>
 <h2>Find me on</h2>
@@ -27,8 +27,8 @@
 </p>
 
 ------------
-<p align="center">Monday, 22 February, 2:07 am GMT+8</p>
-<p align="center">Davao, Philippines | 24c°</p>
-<p align="center">Sky: Mostly Cloudy | Wind: 5 km|h Northwest</p>
-<p align="center">Humidity: 100</p>
+<p align="center">Monday, 22 February, 2:22 am GMT+8</p>
+<p align="center">Davao, Philippines | 23c°</p>
+<p align="center">Sky: Cloudy | Wind: 4 km|h North</p>
+<p align="center"><img src="https://img.shields.io/badge/Humidity-100-yellow?style=for-the-badge" /></p>
 <p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
