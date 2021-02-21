@@ -18,9 +18,9 @@
 </p>
 
 ------------
-<p align="center">Sunday, 21 February, 1:06 pm GMT+8</p>
-<p align="center">Davao, Philippines | 26c°</p>
-<p align="center">Sky: Cloudy | Wind: 8 km|h Northeast</p>
+<p align="center">Sunday, 21 February, 2:07 pm GMT+8</p>
+<p align="center">Davao, Philippines | 27c°</p>
+<p align="center">Sky: Cloudy | Wind: 5 km|h Northwest</p>
 <p align="center">Humidity: 100</p>
 <p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
 
