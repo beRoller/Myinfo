@@ -14,11 +14,11 @@
 </p>
 </br>
 <h2>Find me on</h2>
-<p><a href="https://github.com/beRoller" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/10011010100101C" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/carl-cabahug-289316126/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/beRoller" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/10011010100101C" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/carl-cabahug-289316126/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 ------------
-<p align="center">Monday, 22 February, 1:19 am GMT+8</p>
+<p align="center">Monday, 22 February, 1:36 am GMT+8</p>
 <p align="center">Davao, Philippines | 23c°</p>
 <p align="center">Sky: Mostly Cloudy | Wind: 5 km|h Northwest</p>
 <p align="center">Humidity: 100</p>
