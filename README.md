@@ -1,4 +1,4 @@
-<p>Hello!! </br> I'm Carl, Web developer from 🇵🇭</p>
+<p>Hello!! </br> I'm Carl, Web developer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" width="20"/></p>
 <p>I'm a forgettable person that has bigger dreams that most of the time I always stay in my room and use my laptop to browse something new or any if my mind starts to think. sometimes I love to eat</p>
 </br>
 <h2>Things I code with hobbies</h2>
@@ -27,7 +27,7 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Monday, 22 February, 2:42 am GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Monday, 22 February, 2:43 am GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Davao, Philippines-23c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloudy-4 km|h North-yellow?style=for-the-badge" />
