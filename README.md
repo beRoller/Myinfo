@@ -24,13 +24,13 @@
   <a href="https://www.linkedin.com/in/carl-cabahug-289316126/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dctx.ph/volunteer/carl-jay-cabahug/" target="_blank">
+  <a href="https://dctx.ph/volunteer/carl-jay-cabahug/" target="_blank" width="auto" height="28px" style="background-color: white;">
     <img alt="DCTX" src="https://dctx.ph/wp-content/uploads/2020/04/logo.svg" />
   </a>
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Thursday, March 4, 11:12 AM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Thursday, March 4, 11:19 AM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/--yellow?style=for-the-badge" />
