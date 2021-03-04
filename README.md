@@ -24,16 +24,16 @@
   <a href="https://www.linkedin.com/in/carl-cabahug-289316126/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dctx.ph/volunteer/carl-jay-cabahug/" target="_blank" width="auto" height="28" style="background-color: white;">
-    <img alt="DCTX" src="https://dctx.ph/wp-content/uploads/2020/04/logo.svg" />
+  <a href="https://dctx.ph/volunteer/carl-jay-cabahug/" target="_blank" >
+    <img alt="DCTX" width="auto" height="28" style="background-color: white;" src="https://dctx.ph/wp-content/uploads/2020/04/logo.svg" />
   </a>
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Thursday, March 4, 11:21 AM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Thursday, March 4, 11:23 AM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-c°-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/--yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Humidity--yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Davao, Philippines-31c°-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Light Rain-22 km|h Northeast-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Humidity-66-yellow?style=for-the-badge" />
 </p>
 <p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
