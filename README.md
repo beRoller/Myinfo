@@ -30,7 +30,7 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Thursday, 20 May, 12:19 am GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Thursday, 20 May, 1:39 am GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Davao, Philippines-28c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Light Rain-9 km|h South-yellow?style=for-the-badge" />
