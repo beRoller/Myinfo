@@ -30,9 +30,9 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Friday, 5 November, 9:52 am GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Friday, 5 November, 10:23 am GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Davao, Philippines-30c°-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Davao, Philippines-31c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Light Rain-11 km|h Northeast-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Humidity-79-yellow?style=for-the-badge" />
 </p>
