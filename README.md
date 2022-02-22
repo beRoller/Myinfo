@@ -30,10 +30,10 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Wednesday, February 23, 4:10 AM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Wednesday, February 23, 5:08 AM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Davao, Philippines-24c°-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mostly Cloudy-8 km|h North-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Humidity-94-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Davao, Philippines-23c°-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mostly Cloudy-5 km|h North-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Humidity-100-yellow?style=for-the-badge" />
 </p>
 <p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
