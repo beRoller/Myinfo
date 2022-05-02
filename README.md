@@ -30,7 +30,7 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Monday, May 2, 9:30 PM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Monday, May 2, 10:10 PM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Davao, Philippines-26c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mostly Cloudy-8 km|h Northeast-yellow?style=for-the-badge" />
