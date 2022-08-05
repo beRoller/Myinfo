@@ -30,7 +30,7 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Friday, August 5, 11:11 PM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Saturday, August 6, 12:15 AM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/--yellow?style=for-the-badge" />
