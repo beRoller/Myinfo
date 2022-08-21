@@ -1,6 +1,7 @@
-<p>Hello!! </br> I'm Carl, Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" width="25"/></p>
+<p>Hello!!</p>
+<p>I'm Carl, Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" width="25"/></p>
 <p>I'm a forgettable person that has bigger dreams that most of the time I always stay in my room and use my laptop to browse something new or any if my mind starts to think. sometimes I love to eat</p>
-</br>
+------------
 <h2>Things I code with hobbies</h2>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -12,7 +13,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-f9d44a?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="DotNet" src="https://img.shields.io/badge/-Core-5c2992?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
-</br>
+------------
 <h2>Find me on</h2>
 <p>
   <a href="https://github.com/beRoller" target="_blank">
@@ -30,10 +31,10 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Sunday, August 21, 2:13 PM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Sunday, August 21, 2:40 PM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Davao, Philippines-32c°-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Light Rain-21 km|h South-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Humidity-56-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Light Rain-24 km|h South-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Humidity-63-yellow?style=for-the-badge" />
 </p>
 <p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
