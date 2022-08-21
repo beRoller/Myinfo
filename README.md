@@ -8,11 +8,12 @@
   <img style="padding: 1px;" alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img style="padding: 1px;" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img style="padding: 1px;" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img style="padding: 1px;" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img style="padding: 1px;" alt="Shopify" src="https://img.shields.io/badge/-Shopify-95bf47?style=for-the-badge&logo=shopify&logoColor=white" />
   <img style="padding: 1px;" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img style="padding: 1px;" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img style="padding: 1px;" alt="Python" src="https://img.shields.io/badge/-Python-f9d44a?style=for-the-badge&logo=python&logoColor=white" />
   <img style="padding: 1px;" alt="DotNet" src="https://img.shields.io/badge/-Core-5c2992?style=for-the-badge&logo=.net&logoColor=white" />
+  <img style="padding: 1px;" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ------------
@@ -33,7 +34,7 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Sunday, August 21, 2:43 PM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Sunday, August 21, 2:51 PM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Davao, Philippines-32c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Light Rain-24 km|h South-yellow?style=for-the-badge" />
