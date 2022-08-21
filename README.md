@@ -16,7 +16,6 @@
   <img style="padding: 1px;" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-------------
 <h2>Find me on</h2>
 <p align="center">
   <a href="https://github.com/beRoller" target="_blank">
@@ -34,9 +33,9 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Sunday, August 21, 2:51 PM GMT+8-3fb950?style=for-the-badge" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Sunday, August 21, 2:54 PM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Davao, Philippines-32c°-yellow?style=for-the-badge" />
+  -32c°-yellow?style=for-the-badge" /> }}
   <img src="https://img.shields.io/badge/Light Rain-24 km|h South-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Humidity-63-yellow?style=for-the-badge" />
 </p>
