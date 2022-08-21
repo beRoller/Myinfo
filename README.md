@@ -33,9 +33,8 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/Sunday, August 21, 2:54 PM GMT+8-3fb950?style=for-the-badge" /></p>
 <p align="center">
-  -32c°-yellow?style=for-the-badge" /> }}
+  <img src="https://img.shields.io/badge/Davao, Philippines-32c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Light Rain-24 km|h South-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Humidity-63-yellow?style=for-the-badge" />
 </p>
