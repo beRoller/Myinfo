@@ -3,7 +3,7 @@
 <p>I'm a forgettable person that has bigger dreams that most of the time I always stay in my room and use my laptop to browse something new or any if my mind starts to think. sometimes I love to eat</p>
 
 ------------
-<h2>Things I code with hobbies</h2>
+<h2>Technologies I use</h2>
 <p>
   <img style="padding: 1px;" alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img style="padding: 1px;" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
