@@ -34,7 +34,7 @@
 
 ------------
 <p align="center">
-  <img src="https://img.shields.io/badge/Davao, Philippines-24c°-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Davao, Philippines-25c°-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Partly Sunny-13 km|h Northwest-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Humidity-78-yellow?style=for-the-badge" />
 </p>
