@@ -34,8 +34,8 @@
 
 ------------
 <p align="center">
-  <img src="https://img.shields.io/badge/Davao, Philippines-31c°-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Light Rain-24 km|h Northeast-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Humidity-63-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Davao, Philippines-27c°-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rain-24 km|h West-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Humidity-79-yellow?style=for-the-badge" />
 </p>
 <p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
