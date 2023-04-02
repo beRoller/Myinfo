@@ -1,7 +1,7 @@
 <h1>Hi, I'm Carl! 👋</h1>
 <p>A Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" width="25"/></p>
 <p>I'm a forgettable person that has bigger dreams that most of the time I always stay in my room and use my laptop to browse something new or any if my mind starts to think. sometimes I love to eat</p>
-<p>If i have a time i study cyber security</p>
+<p>If i have a time i study cyber security.</p>
 
 <p align="left">
   <a href="https://github.com/beRoller" target="_blank">
