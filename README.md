@@ -1,6 +1,7 @@
 <p>Hello!!</p>
 <p>I'm Carl, Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" width="25"/></p>
 <p>I'm a forgettable person that has bigger dreams that most of the time I always stay in my room and use my laptop to browse something new or any if my mind starts to think. sometimes I love to eat</p>
+<p>sometimes if i have time i study cyber security</p>
 
 ------------
 <h2>Things I code with</h2>
@@ -31,11 +32,3 @@
     <img alt="DCTX" width="auto" height="28" style="background-color: white !important; padding-left: 5px; padding-right: 10px;" src="https://dctx.ph/wp-content/uploads/2020/04/logo.svg" />
   </a>
 </p>
-
-------------
-<p align="center">
-  <img src="https://img.shields.io/badge/-c°-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/--yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Humidity--yellow?style=for-the-badge" />
-</p>
-<p align="center"><img src="https://github.com/beRoller/beRoller/workflows/README%20build/badge.svg" /></p>
